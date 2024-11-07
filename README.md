@@ -26,4 +26,9 @@ This project is a streamlined clone of Notion, built as a learning exercise to d
 - Recover deleted files 🔄📄
 ```
 
-## Learn More
+![jotion1](https://github.com/user-attachments/assets/815d4546-4182-4c8e-98c2-28da970586bb)
+![jotion2](https://github.com/user-attachments/assets/e62ab365-0707-4b3f-98f3-b6b44585d04d)
+![jotion3](https://github.com/user-attachments/assets/9204b7d3-b0c4-4de9-a492-575e6c119bf2)
+![jotion-5](https://github.com/user-attachments/assets/3330e53b-dc54-43bc-ac3e-09eb03647b50)
+![jotion4](https://github.com/user-attachments/assets/99385234-52ed-40a7-97c2-97efb8456035)
+
